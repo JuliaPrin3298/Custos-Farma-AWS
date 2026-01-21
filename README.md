@@ -29,18 +29,18 @@ A Farma Rogers é uma empresa farmacêutica que enfrenta dificuldades na gestão
 
 #Problemas identificados
 
-- Gestão e Organização dos Lucros
+### Gestão e Organização dos Lucros  
 **Objetivo:** Otimização do controle financeiro e visualização dos lucros.
- -[] Armazenamento seguro de dados financeiros
- -[] Alta disponibilidade dos dados
- -[] Escalabilidade conforme crescimento da empresa
- -[] Controle de acesso aos dados financeiros
- -[] Possibilidade de integração com ferramentas de análise
- -[] Redução de custos operacionais com infraestrutura
 
- **Melhor Escolha:** Amazon QuickSight + S3
+- [ ] Armazenamento seguro de dados financeiros  
+- [ ] Alta disponibilidade dos dados  
+- [ ] Escalabilidade conforme crescimento da empresa  
+- [ ] Controle de acesso aos dados financeiros  
+- [ ] Possibilidade de integração com ferramentas de análise  
+- [ ] Redução de custos operacionais com infraestrutura  
 
- ...
+**Melhor escolha:** Amazon QuickSight + Amazon S3
+
 
  - Organização dos Dados dos Clientes
 **Objetivo:** Centralizar e organizar os dados dos clientes de forma segura e eficiente.
