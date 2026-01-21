@@ -5,9 +5,9 @@ Projeto prático focado na redução de custos de uma empresa hipotética por me
 
 # RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
 
-Data: 20/01/2026
-Empresa: Farma Rogers
-Responsável: Julia Rocha Nogueira
+**Data:** 20/01/2026<br>
+**Empresa:** Farma Rogers<br>
+**Responsável:** Julia Rocha Nogueira
 
 ---
 
