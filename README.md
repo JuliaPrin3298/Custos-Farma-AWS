@@ -45,43 +45,45 @@ ________________________________________________________________________________
 
 ### Organização dos Dados dos Clientes
 **Objetivo:** Centralizar e organizar os dados dos clientes de forma segura e eficiente.
-- [ ] Armazenamento estruturado de dados
-- [ ] Alta durabilidade e confiabilidade
-- [ ] Segurança e proteção de dados sensíveis
-- [ ] Facilidade de acesso e consulta
-- [ ] Backup automático
-- [ ] Conformidade com boas práticas de proteção de dados
+- [x] Armazenamento estruturado de dados
+- [x] Alta durabilidade e confiabilidade
+- [x] Segurança e proteção de dados sensíveis
+- [x] Facilidade de acesso e consulta
+- [x] Backup automático
+- [x] Conformidade com boas práticas de proteção de dados
 
- **Melhor Escolha:** Amazon QuickSight + S3
+ **Melhor Escolha:** Amazon RDS
 
+_______________________________________________________________________________________________
+
+### Gestão dos Fornecedores
+**Objetivo:** Melhorar a organização e o controle das informações dos fornecedores.
+- [ ] Armazenamento centralizado das informações
+- [ ] Controle de permissões de acesso
+- [ ] Facilidade de atualização dos dados
+- [ ] Integração com outros sistemas da empresa
+- [ ] Escalabilidade da solução
+- [ ] Redução de falhas causadas por dados descentralizados
+
+ **Melhor Escolha:** Amazon DynamoDB
 _______________________________________________________________________________________________
 
 Diante desse cenário, o projeto propõe a adoção de serviços AWS como solução para reduzir custos operacionais, melhorar a gestão de dados e modernizar a infraestrutura tecnológica da empresa.<br>
 
-Etapa 1: 
-- [Nome da ferramenta]
-- [Foco da ferramenta]
-- [DescriÃ§Ã£o de caso de uso]
-
-Etapa 2: 
-- [Nome da ferramenta]
-- [Foco da ferramenta]
-- [DescriÃ§Ã£o de caso de uso]
-
-Etapa 3: 
-- [Nome da ferramenta]
-- [Foco da ferramenta]
-- [DescriÃ§Ã£o de caso de uso]
+| Etapa | Serviço AWS | Objetivo |
+|------|-------------|----------|
+| 1 | QuickSight + S3 | Gestão financeira |
+| 2 | RDS | Dados de clientes |
+| 3 | DynamoDB | Fornecedores |
 
 
+## Conclusão
 
-## ConclusÃ£o
-A implementaÃ§Ã£o de ferramentas na empresa *[nome da empresa] tem como esperado [benefÃ­cios das ferramentas]*, o que aumentarÃ¡ a eficiÃªncia e a produtividade da empresa. Recomenda-se a continuidade da utilizaÃ§Ã£o das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
+A implementação dos serviços em nuvem da AWS na empresa Farma Rogers teve como finalidade a otimização da gestão de custos, a organização e segurança das informações e a melhoria da eficiência operacional. A adoção dessas soluções tecnológicas possibilita maior controle financeiro, além de proporcionar uma gestão mais estruturada dos dados de clientes e fornecedores. <br>
+Com a utilização de uma infraestrutura em nuvem, a empresa passa a contar com recursos escaláveis, seguros e de alta disponibilidade, contribuindo para a modernização dos processos internos e para a tomada de decisões mais assertivas.<br>
+Dessa forma, recomenda-se a continuidade da utilização dos serviços implementados, bem como a avaliação constante de novas tecnologias e soluções em nuvem que possam ampliar a eficiência, a confiabilidade e a competitividade da empresa no mercado.
 
 ## Anexos
 
 [lista de anexos, como manuais, documentos, planilhas, entre outros]
 
-Assinatura do ResponsÃ¡vel pelo Projeto:
-
-[Nome do ResponsÃ¡vel pelo Projeto]
