@@ -32,12 +32,12 @@ A Farma Rogers é uma empresa farmacêutica que enfrenta dificuldades na gestão
 ### Gestão e Organização dos Lucros  
 **Objetivo:** Otimização do controle financeiro e visualização dos lucros.
 
-- [ ] Armazenamento seguro de dados financeiros  
-- [ ] Alta disponibilidade dos dados  
-- [ ] Escalabilidade conforme crescimento da empresa  
-- [ ] Controle de acesso aos dados financeiros  
-- [ ] Possibilidade de integração com ferramentas de análise  
-- [ ] Redução de custos operacionais com infraestrutura  
+- [x] Armazenamento seguro de dados financeiros  
+- [x] Alta disponibilidade dos dados  
+- [x] Escalabilidade conforme crescimento da empresa  
+- [x] Controle de acesso aos dados financeiros  
+- [x] Possibilidade de integração com ferramentas de análise  
+- [x] Redução de custos operacionais com infraestrutura  
 
 **Melhor escolha:** Amazon QuickSight + Amazon S3
 
@@ -58,12 +58,12 @@ ________________________________________________________________________________
 
 ### Gestão dos Fornecedores
 **Objetivo:** Melhorar a organização e o controle das informações dos fornecedores.
-- [ ] Armazenamento centralizado das informações
-- [ ] Controle de permissões de acesso
-- [ ] Facilidade de atualização dos dados
-- [ ] Integração com outros sistemas da empresa
-- [ ] Escalabilidade da solução
-- [ ] Redução de falhas causadas por dados descentralizados
+- [x] Armazenamento centralizado das informações
+- [x] Controle de permissões de acesso
+- [x] Facilidade de atualização dos dados
+- [x] Integração com outros sistemas da empresa
+- [x] Escalabilidade da solução
+- [x] Redução de falhas causadas por dados descentralizados
 
  **Melhor Escolha:** Amazon DynamoDB
 _______________________________________________________________________________________________
@@ -85,5 +85,6 @@ Dessa forma, recomenda-se a continuidade da utilização dos serviços implement
 
 ## Anexos
 
-[lista de anexos, como manuais, documentos, planilhas, entre outros]
+[Relatório de Implementação (Word)](anexos/Relatorio_Implementacao_AWS.docx)
+
 
