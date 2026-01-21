@@ -27,7 +27,36 @@ A Farma Rogers é uma empresa farmacêutica que enfrenta dificuldades na gestão
 
 ---
 
-Diante desse cenário, o projeto propõe a adoção de serviços AWS como solução para reduzir custos operacionais, melhorar a gestão de dados e modernizar a infraestrutura tecnológica da empresa.
+#Problemas identificados
+
+- Gestão e Organização dos Lucros
+**Objetivo:** Otimização do controle financeiro e visualização dos lucros.
+ -[] Armazenamento seguro de dados financeiros
+ -[] Alta disponibilidade dos dados
+ -[] Escalabilidade conforme crescimento da empresa
+ -[] Controle de acesso aos dados financeiros
+ -[] Possibilidade de integração com ferramentas de análise
+ -[] Redução de custos operacionais com infraestrutura
+
+ **Melhor Escolha:** Amazon QuickSight + S3
+
+ ...
+
+ - Organização dos Dados dos Clientes
+**Objetivo:** Centralizar e organizar os dados dos clientes de forma segura e eficiente.
+ -[] Armazenamento estruturado de dados
+ -[] Alta durabilidade e confiabilidade
+ -[] Segurança e proteção de dados sensíveis
+ -[] Facilidade de acesso e consulta
+ -[] Backup automático
+ -[] Conformidade com boas práticas de proteção de dados
+
+ **Melhor Escolha:** Amazon QuickSight + S3
+
+. . .
+
+Diante desse cenário, o projeto propõe a adoção de serviços AWS como solução para reduzir custos operacionais, melhorar a gestão de dados e modernizar a infraestrutura tecnológica da empresa.<br>
+
 Etapa 1: 
 - [Nome da ferramenta]
 - [Foco da ferramenta]
