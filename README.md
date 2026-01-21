@@ -41,19 +41,20 @@ A Farma Rogers é uma empresa farmacêutica que enfrenta dificuldades na gestão
 
 **Melhor escolha:** Amazon QuickSight + Amazon S3
 
+_______________________________________________________________________________________________
 
- - Organização dos Dados dos Clientes
+### Organização dos Dados dos Clientes
 **Objetivo:** Centralizar e organizar os dados dos clientes de forma segura e eficiente.
- -[] Armazenamento estruturado de dados
- -[] Alta durabilidade e confiabilidade
- -[] Segurança e proteção de dados sensíveis
- -[] Facilidade de acesso e consulta
- -[] Backup automático
- -[] Conformidade com boas práticas de proteção de dados
+- [ ] Armazenamento estruturado de dados
+- [ ] Alta durabilidade e confiabilidade
+- [ ] Segurança e proteção de dados sensíveis
+- [ ] Facilidade de acesso e consulta
+- [ ] Backup automático
+- [ ] Conformidade com boas práticas de proteção de dados
 
  **Melhor Escolha:** Amazon QuickSight + S3
 
-. . .
+_______________________________________________________________________________________________
 
 Diante desse cenário, o projeto propõe a adoção de serviços AWS como solução para reduzir custos operacionais, melhorar a gestão de dados e modernizar a infraestrutura tecnológica da empresa.<br>
 
