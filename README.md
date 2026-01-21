@@ -85,6 +85,6 @@ Dessa forma, recomenda-se a continuidade da utilização dos serviços implement
 
 ## Anexos
 
-[Relatório de Implementação (Word)](anexos/Relatorio_Implementacao_AWS.docx)
+[Relatório de Implementação (Word)](anexos/Relatorio-Implementacao-AWS.pdf)
 
 
